@@ -7,4 +7,8 @@ List of Awesome Lists
   <li><a href="https://github.com/soumendra/awesome-keras">Awesome Keras</a></li>
   <li><a href="https://github.com/fchollet/keras-resources">Keras Resources</a></li>
   <li><a href="https://github.com/chinakook/Awesome-MXNet">Awesome Mxnet</a></li>
+  <li><a href="https://github.com/aikorea/awesome-rl">Awesome Reinforcement Learning</a></li>
+  <li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
+  <li><a href="https://github.com/prakhar1989/awesome-courses">Awesome Computer Science Courses</a></li>
+  
 </ul>
